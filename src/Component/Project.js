@@ -23,7 +23,7 @@ export default function Project() {
       title: "Portfolio Website",
       description:
         "A modern portfolio website built with React & Tailwind CSS.",
-      link: "https://example.com",
+      link: "https://github.com/Narayan-786/NS-Portfolio",
       technologies: ["React", "Tailwind CSS", "Responsive Design"],
       image: "/Images/Screenshot 2025-05-20 201809.png"
     }
