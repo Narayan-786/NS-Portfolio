@@ -32,7 +32,7 @@ export default function Skill() {
   };
 
   return (
-    <div id="Skills" className="min-h-screen w-full py-16">
+    <div id="Skills" className="min-h-screen w-full bg-gradient-to-b from-white to-gray-50 py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold bg-gradient-to-r from-indigo-700 via-purple-600 to-teal-600 pb-1 bg-clip-text text-transparent">

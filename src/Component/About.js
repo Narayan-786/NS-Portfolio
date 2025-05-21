@@ -24,7 +24,7 @@ export default function About() {
           </p>
         </div>
 
-        <div className="relative flex items-center justify-center mb-16">
+        <div className="relative flex items-center justify-center">
           <div className="bg-white shadow-md mb-16 p-6 rounded-md">
             <h1 className="text-3xl font-semibold mb-10">
               Professional Journey
@@ -46,7 +46,7 @@ export default function About() {
         </div>
         <div className="bg-white p-8 shadow-lg mb-16">
           <h2 className="text-3xl font-semibold text-center text-gray-800 mb-8">
-            Beyong Coding
+            Beyond Coding
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-left max-w-4xl mx-auto">
