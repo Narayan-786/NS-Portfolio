@@ -10,7 +10,7 @@ export default function About() {
           <div className="relative flex justify-center items-center mx-auto w-60 h-60 rounded-full">
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-indigo-600 via-purple-600 to-teal-600 filter blur-3xl opacity-70"></div>
             <img
-              src="/images/profilepic.jpg"
+              src="/Images/Profile-pic.jpg"
               alt="Profile image"
               className="relative rounded-full border-4 border-white w-60 h-60 object-cover object-[top_10%] shadow-lg transform hover:scale-110 transition duration-300"
             />
