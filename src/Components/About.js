@@ -12,7 +12,7 @@ export default function About() {
             <img
               src="/images/profilepic.jpg"
               alt="Profile image"
-              className="relative rounded-full border-4 border-white w-60 h-60 object-cover shadow-lg transform hover:scale-110 transition duration-300"
+              className="relative rounded-full border-4 border-white w-60 h-60 object-cover object-[top_10%] shadow-lg transform hover:scale-110 transition duration-300"
             />
           </div>
           <h1 className="text-5xl font-bold font-sans bg-gradient-to-r from-indigo-600 via-purple-600 to-teal-500 bg-clip-text text-transparent pb-3">

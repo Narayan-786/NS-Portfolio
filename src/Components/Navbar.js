@@ -5,7 +5,7 @@ export default function Navbar() {
     return (
         <>
         {/* from-indigo-500 via-purple-600 to-rose-500  */}
-            <nav className="w-full h max bg-gradient-to-r  from-indigo-500 via-purple-700 to-teal-500 shadow-lg">
+            <nav className="w-full h max bg-gradient-to-r  from-indigo-500 via-purple-700 to-teal-500 sticky z-50 top-0 shadow-lg">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex items-center justify-between h-16">
                         <div className="flex items-center justify-center">
